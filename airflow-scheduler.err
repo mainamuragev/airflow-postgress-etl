@@ -1,0 +1,5 @@
+[2025-10-16 18:13:34 +0300] [15660] [INFO] Starting gunicorn 21.2.0
+[2025-10-16 18:13:34 +0300] [15660] [INFO] Listening at: http://[::]:8793 (15660)
+[2025-10-16 18:13:34 +0300] [15660] [INFO] Using worker: sync
+[2025-10-16 18:13:34 +0300] [15661] [INFO] Booting worker with pid: 15661
+[2025-10-16 18:13:34 +0300] [15662] [INFO] Booting worker with pid: 15662

@@ -1,0 +1,11 @@
+# Airflow artifacts
+airflow.db
+logs/
+*.log
+*.pid
+*.sqlite
+__pycache__/
+venv/
+.env
+*.pyc
+dags/__pycache__/
