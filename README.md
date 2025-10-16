@@ -1,5 +1,3 @@
-Absolutely, Maina — here’s your full README for the Airflow + PostgreSQL ETL project, ready to paste into your terminal editor:
-
 ---
 
 ### 📝 Terminal Instructions
